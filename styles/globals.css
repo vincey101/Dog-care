@@ -161,8 +161,11 @@ span.text-red {
 }
 
 .hero-banner-container .beats-solo {
+  /* font-size: 1.4rem; */
   font-size: 20px;
 }
+
+
 
 .hero-banner-container button {
   border-radius: 15px;
@@ -719,6 +722,14 @@ span.text-red {
     height: 560px;
   }
 
+  .hero-banner-container .beats-solo {
+    font-size: 15px;
+  }
+
+  .hero-banner-container .beats-solo-midtext {
+    font-size: 24px;
+  }
+
   .hero-banner-image {
     width: 77%;
     height: 62%;
@@ -730,6 +741,8 @@ span.text-red {
     height: 560px;
     margin-top: 80px;
   }
+
+
 
   .footer-banner-image {
     width: 77%;
